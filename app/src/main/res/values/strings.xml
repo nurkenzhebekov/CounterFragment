@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="zero_text">0</string>
+    <string name="plus_BT">+</string>
+    <string name="minus_BT">-</string>
+</resources>
